@@ -1,0 +1,13 @@
+header, nav, section, article, aside, footer {
+	display: block;
+}
+.menu li {
+	display: inline;
+}
+.slider {
+	background:rgb(0,0,0);
+	filter:alpha(opacity=30);
+}
+.com {
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#745083', endColorstr='#322539')";
+}	

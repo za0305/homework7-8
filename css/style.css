@@ -311,7 +311,8 @@ right: -273px;
         /*ABOUT COMPANY*/
 
 .com {
-background: linear-gradient(to top, #322539, #745083);
+	background: -moz-linear-gradient(bottom, #322539, #745083);
+	background: linear-gradient(to top, #322539, #745083);
 }
 .company {
 	width: 960px;
