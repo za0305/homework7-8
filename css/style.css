@@ -183,9 +183,10 @@ header a {
 	left: 619px;
 }
 .slider_sc_select1 {
-position: relative;
-top: 124px;
-right: -273px;
+	width: 100px;
+	position: relative;
+	top: 164px;
+	left: 893px;
 }
 
 @media screen and (max-width: 959px) {
@@ -203,7 +204,7 @@ right: -273px;
 	#slider_sn2 {
 		margin: 0;
 		bottom: 65px;
-		left: 19px;
+		left: 0px;
 	}
 	.slider_sc {
 		width: 675px;
@@ -229,7 +230,7 @@ right: -273px;
 	}
 	.slider_sc_select1 {
 		top: 148px;
-		right: -208px;
+		left: 534px;
 	}
 }
 @media screen and (max-width: 767px){
@@ -270,7 +271,7 @@ right: -273px;
 	}
 	.slider_sc_select1 {
 		top: 113px;
-		right: -15px;
+		left: 338px;
 	}
 }
 @media screen and (max-width: 479px) {
@@ -305,7 +306,7 @@ right: -273px;
 	}
 	.slider_sc_select1 {
 		top: 70px;
-		right: -7px;
+		left: 155px;
 	}
 }
         /*ABOUT COMPANY*/
